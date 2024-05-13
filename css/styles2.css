@@ -1,7 +1,17 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
     margin: 0 auto;
     width: 68%;
+}
+.container2{
+    width: 100%;
+    background-color: lightskyblue;
+}
+.container3{
+    width: 100%;
+    background-color: #d3d3d3;
 }
 header{
     margin-top: 100px;
@@ -19,11 +29,9 @@ h1{
     padding: 23px;
     width: 610px;
     height: 415px;
-    background-color: lightskyblue;
 }
 .screen{
     padding: 100px;
-    background-color: lightskyblue;
 }
 .screen img{
     height: 700px;
@@ -47,14 +55,12 @@ a:link {
   }
 
 .footerlink1{
-    background-color: #d3d3d3;
     padding: 30px;
     border-right: solid rgb(204, 199, 199);
     width: 591px;
     text-align: center;
 }
 .footerlink2{
-    background-color: #d3d3d3;
     padding: 30px;
     width: 591px;
     text-align: center;
