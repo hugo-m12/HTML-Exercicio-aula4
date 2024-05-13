@@ -1,0 +1,34 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    margin: 0 auto;
+    width: 68%;
+}
+
+h1{
+    font-size: xxx-large;
+    text-shadow: 1px 1px #929090;
+}
+
+.flex{
+    display: flex;
+}
+.befornafterbox{
+    padding: 50px;
+    width: 68%;
+    background-color: lightskyblue;
+}
+.screen{
+    padding: 100px;
+    background-color: lightskyblue;
+}
+.screen img{
+    height: 700px;
+    width: auto;
+}
+.footerlink{
+    background-color: gray;
+    padding: 30px;
+    width: 591px;
+    text-align: center;
+}
