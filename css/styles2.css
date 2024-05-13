@@ -16,8 +16,9 @@ h1{
     display: flex;
 }
 .befornafterbox{
-    padding: 50px;
-    width: 68%;
+    padding: 23px;
+    width: 610px;
+    height: 415px;
     background-color: lightskyblue;
 }
 .screen{
