@@ -1,8 +1,10 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 50px;
     margin: 0 auto;
     width: 68%;
+}
+header{
+    margin-top: 100px;
 }
 
 h1{
