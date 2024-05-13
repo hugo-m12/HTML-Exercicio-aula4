@@ -28,8 +28,25 @@ h1{
     height: 700px;
     width: auto;
 }
+
+a:link {
+    text-decoration: none;
+  }
+
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
+
 .footerlink{
-    background-color: gray;
+    background-color: #d3d3d3;
     padding: 30px;
     width: 591px;
     text-align: center;
